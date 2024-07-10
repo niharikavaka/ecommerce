@@ -1,5 +1,5 @@
 from automation.pages.signup import locators
-from src.data.data import RegisterData
+from automation.src.data.data import RegisterData
 import clusters
 
 
