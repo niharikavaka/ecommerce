@@ -1,6 +1,6 @@
 from automation.pages.signup import locators
 from automation.src.data.data import RegisterData
-import clusters
+from automation import clusters
 
 
 class RegisterUser:
