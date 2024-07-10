@@ -1,4 +1,4 @@
-from pages.signup import locators
+from automation.pages.signup import locators
 from src.data.data import RegisterData
 import clusters
 
