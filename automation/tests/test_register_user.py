@@ -1,7 +1,7 @@
 from playwright.sync_api import Page
 from playwright.sync_api import expect 
 import time 
-from pages.signup.RegisterUser import RegisterUser
+from automation.pages.signup.RegisterUser import RegisterUser
 # from src.pages.signup.RegisterUser import RegisterUser
 
 class TestRegisterUser:
