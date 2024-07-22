@@ -11,5 +11,5 @@ def test_login_with_correct_email_and_password(page:Page):
      # new_user_signup_visible = login_page.verify_new_user_signup_visible()
      # expect(new_user_signup_visible).to_be_visible()
 
-# def test_1():
-#      pass
+
+
