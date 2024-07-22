@@ -21,7 +21,7 @@ class TestRegisterUser:
         acc_deleted = register_user.verify_acc_deleted()
         expect(acc_deleted).to_be_visible()
         register_user.continue_page()
-        print("Niha")
+        
 
 
         
